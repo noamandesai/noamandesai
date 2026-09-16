@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Noaman M Desai**, a third-year BTech student pursuing **Artificial Intelligence & Analytics (AIA)** at **MIT ADT University**.
+I'm **Noaman M Desai**, a final year BTech student pursuing **Artificial Intelligence & Analytics (AIA)** at **MIT ADT University**.
 
 I have a **Diploma in Computer Engineering from D.Y. Patil Polytechnic** and a strong interest in:
 
