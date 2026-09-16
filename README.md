@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/noamandesai">
-    <img src="https://img.shields.io/badge/GitHub-noamandesai-181717?style=for-the-badge&logo=github" alt="GitHub">
+    <!-- <img src="https://img.shields.io/badge/GitHub-noamandesai-181717?style=for-the-badge&logo=github" alt="GitHub"> -->
   </a>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/AI%2FML-111827?style=for-the-badge&logo=googlecolab&logoColor=white" alt="AI/ML">
