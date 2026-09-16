@@ -177,41 +177,6 @@ I want to build software and AI-driven applications that turn technical concepts
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=noamandesai&show_icons=true&hide_border=true&rank_icon=github"
-    alt="Noaman's GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=noamandesai&layout=compact&hide_border=true"
-    alt="Noaman's Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=noamandesai&hide_border=true"
-    alt="Noaman's GitHub Streak"
-  />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=noamandesai&hide_border=true"
-    alt="Noaman's Contribution Graph"
-  />
-</p>
-
----
 
 ## 🤝 Connect With Me
 
