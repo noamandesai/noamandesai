@@ -146,7 +146,7 @@ A computer vision project created during my AI/ML and Python internship, focused
 `Python` `Computer Vision` `Face Detection Libraries / Frameworks`
 
 🔗 **Project:**  
-Repository link can be added here when available.
+[View on GitHub] (https://github.com/Onkarsolanke83/smart-ai-enabled-online-exam-proctoring).
 
 ---
 
